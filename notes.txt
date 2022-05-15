@@ -1,0 +1,1 @@
+Cambiar vehículos por mantenimiento en el menú, y aquí desprender monitoreo que es un programa completo del gps de los camiones.
