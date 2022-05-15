@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Catalogo>
+	<row Clave="TPAF01" Descripcion="Autotransporte Federal de carga general." CveTransporte="01"/>
+	<row Clave="TPAF02" Descripcion="Transporte privado de carga." CveTransporte="01"/>
+	<row Clave="TPAF03" Descripcion="Autotransporte Federal de Carga Especializada de materiales y residuos peligrosos." CveTransporte="01"/>
+	<row Clave="TPAF04" Descripcion="Transporte de automóviles sin rodar en vehículo tipo góndola." CveTransporte="01"/>
+	<row Clave="TPAF05" Descripcion="Transporte de carga de gran peso y/o volumen de hasta 90 toneladas." CveTransporte="01"/>
+	<row Clave="TPAF06" Descripcion="Transporte de carga especializada de gran peso y/o volumen de más 90 toneladas." CveTransporte="01"/>
+	<row Clave="TPAF07" Descripcion="Transporte Privado de materiales y residuos peligrosos." CveTransporte="01"/>
+	<row Clave="TPAF08" Descripcion="Autotransporte internacional de carga de largo recorrido." CveTransporte="01"/>
+	<row Clave="TPAF09" Descripcion="Autotransporte internacional de carga especializada de materiales y residuos peligrosos de largo recorrido." CveTransporte="01"/>
+	<row Clave="TPAF10" Descripcion="Autotransporte Federal de Carga General cuyo ámbito de aplicación comprende la franja fronteriza con Estados Unidos." CveTransporte="01"/>
+	<row Clave="TPAF11" Descripcion="Autotransporte Federal de Carga Especializada cuyo ámbito de aplicación comprende la franja fronteriza con Estados Unidos." CveTransporte="01"/>
+	<row Clave="TPAF12" Descripcion="Servicio auxiliar de arrastre en las vías generales de comunicación." CveTransporte="01"/>
+	<row Clave="TPAF13" Descripcion="Servicio auxiliar de servicios de arrastre, arrastre y salvamento, y depósito de vehículos en las vías generales de comunicación." CveTransporte="01"/>
+	<row Clave="TPAF14" Descripcion="Servicio de paquetería y mensajería en las vías generales de comunicación." CveTransporte="01"/>
+	<row Clave="TPAF15" Descripcion="Transporte especial para el tránsito de grúas industriales con peso máximo de 90 toneladas." CveTransporte="01"/>
+	<row Clave="TPAF16" Descripcion="Servicio federal para empresas arrendadoras servicio público federal." CveTransporte="01"/>
+	<row Clave="TPAF17" Descripcion="Empresas trasladistas de vehículos nuevos." CveTransporte="01"/>
+	<row Clave="TPAF18" Descripcion="Empresas fabricantes o distribuidoras de vehículos nuevos." CveTransporte="01"/>
+	<row Clave="TPAF19" Descripcion="Autorización expresa para circular en los caminos y puentes de jurisdicción federal con configuraciones de tractocamión doblemente articulado." CveTransporte="01"/>
+	<row Clave="TPAF20" Descripcion="Autotransporte Federal de Carga Especializada de fondos y valores." CveTransporte="01"/>
+	<row Clave="TPTM01" Descripcion="Permiso temporal para navegación de cabotaje" CveTransporte="02"/>
+	<row Clave="TPTA01" Descripcion="Concesión y/o autorización para el servicio regular nacional y/o internacional para empresas mexicanas" CveTransporte="03"/>
+	<row Clave="TPTA02" Descripcion="Permiso para el servicio aéreo regular de empresas extranjeras" CveTransporte="03"/>
+	<row Clave="TPTA03" Descripcion="Permiso para el servicio nacional e internacional no regular de fletamento" CveTransporte="03"/>
+	<row Clave="TPTA04" Descripcion="Permiso para el servicio nacional e internacional no regular de taxi aéreo" CveTransporte="03"/>
+	<row Clave="TPXX00" Descripcion="Permiso no contemplado en el catálogo." CveTransporte="01,02,03"/>
+</Catalogo>

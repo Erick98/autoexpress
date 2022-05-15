@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Catalogo>
+  <row c_Pais="AFG" Descripcion="Afganistán"/>
+  <row c_Pais="ALA" Descripcion="Islas Åland"/>
+  <row c_Pais="ALB" Descripcion="Albania"/>
+  <row c_Pais="DEU" Descripcion="Alemania" Agrupaciones="Unión Europea"/>
+  <row c_Pais="AND" Descripcion="Andorra"/>
+  <row c_Pais="AGO" Descripcion="Angola"/>
+  <row c_Pais="AIA" Descripcion="Anguila"/>
+  <row c_Pais="ATA" Descripcion="Antártida"/>
+  <row c_Pais="ATG" Descripcion="Antigua y Barbuda"/>
+  <row c_Pais="SAU" Descripcion="Arabia Saudita"/>
+  <row c_Pais="DZA" Descripcion="Argelia"/>
+  <row c_Pais="ARG" Descripcion="Argentina"/>
+  <row c_Pais="ARM" Descripcion="Armenia"/>
+  <row c_Pais="ABW" Descripcion="Aruba"/>
+  <row c_Pais="AUS" Descripcion="Australia"/>
+  <row c_Pais="AUT" Descripcion="Austria" Agrupaciones="Unión Europea"/>
+  <row c_Pais="AZE" Descripcion="Azerbaiyán"/>
+  <row c_Pais="BHS" Descripcion="Bahamas (las)"/>
+  <row c_Pais="BGD" Descripcion="Bangladés"/>
+  <row c_Pais="BRB" Descripcion="Barbados"/>
+  <row c_Pais="BHR" Descripcion="Baréin"/>
+  <row c_Pais="BEL" Descripcion="Bélgica" Agrupaciones="Unión Europea"/>
+  <row c_Pais="BLZ" Descripcion="Belice"/>
+  <row c_Pais="BEN" Descripcion="Benín"/>
+  <row c_Pais="BMU" Descripcion="Bermudas"/>
+  <row c_Pais="BLR" Descripcion="Bielorrusia"/>
+  <row c_Pais="MMR" Descripcion="Myanmar"/>
+  <row c_Pais="BOL" Descripcion="Bolivia, Estado Plurinacional de"/>
+  <row c_Pais="BIH" Descripcion="Bosnia y Herzegovina"/>
+  <row c_Pais="BWA" Descripcion="Botsuana"/>
+  <row c_Pais="BRA" Descripcion="Brasil"/>
+  <row c_Pais="BRN" Descripcion="Brunéi Darussalam"/>
+  <row c_Pais="BGR" Descripcion="Bulgaria" Agrupaciones="Unión Europea"/>
+  <row c_Pais="BFA" Descripcion="Burkina Faso"/>
+  <row c_Pais="BDI" Descripcion="Burundi"/>
+  <row c_Pais="BTN" Descripcion="Bután"/>
+  <row c_Pais="CPV" Descripcion="Cabo Verde"/>
+  <row c_Pais="KHM" Descripcion="Camboya"/>
+  <row c_Pais="CMR" Descripcion="Camerún"/>
+  <row c_Pais="CAN" Descripcion="Canadá" FormatoCP="[A-Z][0-9][A-Z] [0-9][A-Z][0-9]" FormatoRegIT="[0-9]{9}" Agrupaciones="TLCAN"/>
+  <row c_Pais="QAT" Descripcion="Catar"/>
+  <row c_Pais="BES" Descripcion="Bonaire, San Eustaquio y Saba"/>
+  <row c_Pais="TCD" Descripcion="Chad"/>
+  <row c_Pais="CHL" Descripcion="Chile"/>
+  <row c_Pais="CHN" Descripcion="China"/>
+  <row c_Pais="CYP" Descripcion="Chipre" Agrupaciones="Unión Europea"/>
+  <row c_Pais="COL" Descripcion="Colombia"/>
+  <row c_Pais="COM" Descripcion="Comoras"/>
+  <row c_Pais="PRK" Descripcion="Corea (la República Democrática Popular de)"/>
+  <row c_Pais="KOR" Descripcion="Corea (la República de)"/>
+  <row c_Pais="CIV" Descripcion="Côte d'Ivoire"/>
+  <row c_Pais="CRI" Descripcion="Costa Rica"/>
+  <row c_Pais="HRV" Descripcion="Croacia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="CUB" Descripcion="Cuba"/>
+  <row c_Pais="CUW" Descripcion="Curaçao"/>
+  <row c_Pais="DNK" Descripcion="Dinamarca" Agrupaciones="Unión Europea"/>
+  <row c_Pais="DMA" Descripcion="Dominica"/>
+  <row c_Pais="ECU" Descripcion="Ecuador"/>
+  <row c_Pais="EGY" Descripcion="Egipto"/>
+  <row c_Pais="SLV" Descripcion="El Salvador"/>
+  <row c_Pais="ARE" Descripcion="Emiratos Árabes Unidos (Los)"/>
+  <row c_Pais="ERI" Descripcion="Eritrea"/>
+  <row c_Pais="SVK" Descripcion="Eslovaquia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="SVN" Descripcion="Eslovenia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="ESP" Descripcion="España" Agrupaciones="Unión Europea"/>
+  <row c_Pais="USA" Descripcion="Estados Unidos (los)" FormatoCP="[0-9]{5}(-[0-9]{4})?" FormatoRegIT="[0-9]{9}" Agrupaciones="TLCAN"/>
+  <row c_Pais="EST" Descripcion="Estonia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="ETH" Descripcion="Etiopía"/>
+  <row c_Pais="PHL" Descripcion="Filipinas (las)"/>
+  <row c_Pais="FIN" Descripcion="Finlandia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="FJI" Descripcion="Fiyi"/>
+  <row c_Pais="FRA" Descripcion="Francia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="GAB" Descripcion="Gabón"/>
+  <row c_Pais="GMB" Descripcion="Gambia (La)"/>
+  <row c_Pais="GEO" Descripcion="Georgia"/>
+  <row c_Pais="GHA" Descripcion="Ghana"/>
+  <row c_Pais="GIB" Descripcion="Gibraltar"/>
+  <row c_Pais="GRD" Descripcion="Granada"/>
+  <row c_Pais="GRC" Descripcion="Grecia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="GRL" Descripcion="Groenlandia"/>
+  <row c_Pais="GLP" Descripcion="Guadalupe"/>
+  <row c_Pais="GUM" Descripcion="Guam"/>
+  <row c_Pais="GTM" Descripcion="Guatemala"/>
+  <row c_Pais="GUF" Descripcion="Guayana Francesa"/>
+  <row c_Pais="GGY" Descripcion="Guernsey"/>
+  <row c_Pais="GIN" Descripcion="Guinea"/>
+  <row c_Pais="GNB" Descripcion="Guinea-Bisáu"/>
+  <row c_Pais="GNQ" Descripcion="Guinea Ecuatorial"/>
+  <row c_Pais="GUY" Descripcion="Guyana"/>
+  <row c_Pais="HTI" Descripcion="Haití"/>
+  <row c_Pais="HND" Descripcion="Honduras"/>
+  <row c_Pais="HKG" Descripcion="Hong Kong"/>
+  <row c_Pais="HUN" Descripcion="Hungría" Agrupaciones="Unión Europea"/>
+  <row c_Pais="IND" Descripcion="India"/>
+  <row c_Pais="IDN" Descripcion="Indonesia"/>
+  <row c_Pais="IRQ" Descripcion="Irak"/>
+  <row c_Pais="IRN" Descripcion="Irán (la República Islámica de)"/>
+  <row c_Pais="IRL" Descripcion="Irlanda" Agrupaciones="Unión Europea"/>
+  <row c_Pais="BVT" Descripcion="Isla Bouvet"/>
+  <row c_Pais="IMN" Descripcion="Isla de Man"/>
+  <row c_Pais="CXR" Descripcion="Isla de Navidad"/>
+  <row c_Pais="NFK" Descripcion="Isla Norfolk"/>
+  <row c_Pais="ISL" Descripcion="Islandia"/>
+  <row c_Pais="CYM" Descripcion="Islas Caimán (las)"/>
+  <row c_Pais="CCK" Descripcion="Islas Cocos (Keeling)"/>
+  <row c_Pais="COK" Descripcion="Islas Cook (las)"/>
+  <row c_Pais="FRO" Descripcion="Islas Feroe (las)"/>
+  <row c_Pais="SGS" Descripcion="Georgia del sur y las islas sandwich del sur"/>
+  <row c_Pais="HMD" Descripcion="Isla Heard e Islas McDonald"/>
+  <row c_Pais="FLK" Descripcion="Islas Malvinas [Falkland] (las)"/>
+  <row c_Pais="MNP" Descripcion="Islas Marianas del Norte (las)"/>
+  <row c_Pais="MHL" Descripcion="Islas Marshall (las)"/>
+  <row c_Pais="PCN" Descripcion="Pitcairn"/>
+  <row c_Pais="SLB" Descripcion="Islas Salomón (las)"/>
+  <row c_Pais="TCA" Descripcion="Islas Turcas y Caicos (las)"/>
+  <row c_Pais="UMI" Descripcion="Islas de Ultramar Menores de Estados Unidos (las)"/>
+  <row c_Pais="VGB" Descripcion="Islas Vírgenes (Británicas)"/>
+  <row c_Pais="VIR" Descripcion="Islas Vírgenes (EE.UU.)"/>
+  <row c_Pais="ISR" Descripcion="Israel"/>
+  <row c_Pais="ITA" Descripcion="Italia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="JAM" Descripcion="Jamaica"/>
+  <row c_Pais="JPN" Descripcion="Japón"/>
+  <row c_Pais="JEY" Descripcion="Jersey"/>
+  <row c_Pais="JOR" Descripcion="Jordania"/>
+  <row c_Pais="KAZ" Descripcion="Kazajistán"/>
+  <row c_Pais="KEN" Descripcion="Kenia"/>
+  <row c_Pais="KGZ" Descripcion="Kirguistán"/>
+  <row c_Pais="KIR" Descripcion="Kiribati"/>
+  <row c_Pais="KWT" Descripcion="Kuwait"/>
+  <row c_Pais="LAO" Descripcion="Lao, (la) República Democrática Popular"/>
+  <row c_Pais="LSO" Descripcion="Lesoto"/>
+  <row c_Pais="LVA" Descripcion="Letonia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="LBN" Descripcion="Líbano"/>
+  <row c_Pais="LBR" Descripcion="Liberia"/>
+  <row c_Pais="LBY" Descripcion="Libia"/>
+  <row c_Pais="LIE" Descripcion="Liechtenstein"/>
+  <row c_Pais="LTU" Descripcion="Lituania" Agrupaciones="Unión Europea"/>
+  <row c_Pais="LUX" Descripcion="Luxemburgo" Agrupaciones="Unión Europea"/>
+  <row c_Pais="MAC" Descripcion="Macao"/>
+  <row c_Pais="MDG" Descripcion="Madagascar"/>
+  <row c_Pais="MYS" Descripcion="Malasia"/>
+  <row c_Pais="MWI" Descripcion="Malaui"/>
+  <row c_Pais="MDV" Descripcion="Maldivas"/>
+  <row c_Pais="MLI" Descripcion="Malí"/>
+  <row c_Pais="MLT" Descripcion="Malta" Agrupaciones="Unión Europea"/>
+  <row c_Pais="MAR" Descripcion="Marruecos"/>
+  <row c_Pais="MTQ" Descripcion="Martinica"/>
+  <row c_Pais="MUS" Descripcion="Mauricio"/>
+  <row c_Pais="MRT" Descripcion="Mauritania"/>
+  <row c_Pais="MYT" Descripcion="Mayotte"/>
+  <row c_Pais="MEX" Descripcion="México" FormatoCP="[0-9]{5}" FormatoRegIT="[A-Z&amp;Ñ]{3,4}[0-9]{2}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])[A-Z0-9]{2}[0&#10;-9A]" ValidacionRegIT="Lista del SAT" Agrupaciones="TLCAN"/>
+  <row c_Pais="FSM" Descripcion="Micronesia (los Estados Federados de)"/>
+  <row c_Pais="MDA" Descripcion="Moldavia (la República de)"/>
+  <row c_Pais="MCO" Descripcion="Mónaco"/>
+  <row c_Pais="MNG" Descripcion="Mongolia"/>
+  <row c_Pais="MNE" Descripcion="Montenegro"/>
+  <row c_Pais="MSR" Descripcion="Montserrat"/>
+  <row c_Pais="MOZ" Descripcion="Mozambique"/>
+  <row c_Pais="NAM" Descripcion="Namibia"/>
+  <row c_Pais="NRU" Descripcion="Nauru"/>
+  <row c_Pais="NPL" Descripcion="Nepal"/>
+  <row c_Pais="NIC" Descripcion="Nicaragua"/>
+  <row c_Pais="NER" Descripcion="Níger (el)"/>
+  <row c_Pais="NGA" Descripcion="Nigeria"/>
+  <row c_Pais="NIU" Descripcion="Niue"/>
+  <row c_Pais="NOR" Descripcion="Noruega"/>
+  <row c_Pais="NCL" Descripcion="Nueva Caledonia"/>
+  <row c_Pais="NZL" Descripcion="Nueva Zelanda"/>
+  <row c_Pais="OMN" Descripcion="Omán"/>
+  <row c_Pais="NLD" Descripcion="Países Bajos (los)" Agrupaciones="Unión Europea"/>
+  <row c_Pais="PAK" Descripcion="Pakistán"/>
+  <row c_Pais="PLW" Descripcion="Palaos"/>
+  <row c_Pais="PSE" Descripcion="Palestina, Estado de"/>
+  <row c_Pais="PAN" Descripcion="Panamá"/>
+  <row c_Pais="PNG" Descripcion="Papúa Nueva Guinea"/>
+  <row c_Pais="PRY" Descripcion="Paraguay"/>
+  <row c_Pais="PER" Descripcion="Perú"/>
+  <row c_Pais="PYF" Descripcion="Polinesia Francesa"/>
+  <row c_Pais="POL" Descripcion="Polonia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="PRT" Descripcion="Portugal" Agrupaciones="Unión Europea"/>
+  <row c_Pais="PRI" Descripcion="Puerto Rico"/>
+  <row c_Pais="GBR" Descripcion="Reino Unido (el)" Agrupaciones="Unión Europea"/>
+  <row c_Pais="CAF" Descripcion="República Centroafricana (la)"/>
+  <row c_Pais="CZE" Descripcion="República Checa (la)" Agrupaciones="Unión Europea"/>
+  <row c_Pais="MKD" Descripcion="Macedonia (la antigua República Yugoslava de)"/>
+  <row c_Pais="COG" Descripcion="Congo"/>
+  <row c_Pais="COD" Descripcion="Congo (la República Democrática del)"/>
+  <row c_Pais="DOM" Descripcion="República Dominicana (la)"/>
+  <row c_Pais="REU" Descripcion="Reunión"/>
+  <row c_Pais="RWA" Descripcion="Ruanda"/>
+  <row c_Pais="ROU" Descripcion="Rumania" Agrupaciones="Unión Europea"/>
+  <row c_Pais="RUS" Descripcion="Rusia, (la) Federación de"/>
+  <row c_Pais="ESH" Descripcion="Sahara Occidental"/>
+  <row c_Pais="WSM" Descripcion="Samoa"/>
+  <row c_Pais="ASM" Descripcion="Samoa Americana"/>
+  <row c_Pais="BLM" Descripcion="San Bartolomé"/>
+  <row c_Pais="KNA" Descripcion="San Cristóbal y Nieves"/>
+  <row c_Pais="SMR" Descripcion="San Marino"/>
+  <row c_Pais="MAF" Descripcion="San Martín (parte francesa)"/>
+  <row c_Pais="SPM" Descripcion="San Pedro y Miquelón"/>
+  <row c_Pais="VCT" Descripcion="San Vicente y las Granadinas"/>
+  <row c_Pais="SHN" Descripcion="Santa Helena, Ascensión y Tristán de Acuña"/>
+  <row c_Pais="LCA" Descripcion="Santa Lucía"/>
+  <row c_Pais="STP" Descripcion="Santo Tomé y Príncipe"/>
+  <row c_Pais="SEN" Descripcion="Senegal"/>
+  <row c_Pais="SRB" Descripcion="Serbia"/>
+  <row c_Pais="SYC" Descripcion="Seychelles"/>
+  <row c_Pais="SLE" Descripcion="Sierra leona"/>
+  <row c_Pais="SGP" Descripcion="Singapur"/>
+  <row c_Pais="SXM" Descripcion="Sint Maarten (parte holandesa)"/>
+  <row c_Pais="SYR" Descripcion="Siria, (la) República Árabe"/>
+  <row c_Pais="SOM" Descripcion="Somalia"/>
+  <row c_Pais="LKA" Descripcion="Sri Lanka"/>
+  <row c_Pais="SWZ" Descripcion="Suazilandia"/>
+  <row c_Pais="ZAF" Descripcion="Sudáfrica"/>
+  <row c_Pais="SDN" Descripcion="Sudán (el)"/>
+  <row c_Pais="SSD" Descripcion="Sudán del Sur"/>
+  <row c_Pais="SWE" Descripcion="Suecia" Agrupaciones="Unión Europea"/>
+  <row c_Pais="CHE" Descripcion="Suiza"/>
+  <row c_Pais="SUR" Descripcion="Surinam"/>
+  <row c_Pais="SJM" Descripcion="Svalbard y Jan Mayen"/>
+  <row c_Pais="THA" Descripcion="Tailandia"/>
+  <row c_Pais="TWN" Descripcion="Taiwán (Provincia de China)"/>
+  <row c_Pais="TZA" Descripcion="Tanzania, República Unida de"/>
+  <row c_Pais="TJK" Descripcion="Tayikistán"/>
+  <row c_Pais="IOT" Descripcion="Territorio Británico del Océano Índico (el)"/>
+  <row c_Pais="ATF" Descripcion="Territorios Australes Franceses (los)"/>
+  <row c_Pais="TLS" Descripcion="Timor-Leste"/>
+  <row c_Pais="TGO" Descripcion="Togo"/>
+  <row c_Pais="TKL" Descripcion="Tokelau"/>
+  <row c_Pais="TON" Descripcion="Tonga"/>
+  <row c_Pais="TTO" Descripcion="Trinidad y Tobago"/>
+  <row c_Pais="TUN" Descripcion="Túnez"/>
+  <row c_Pais="TKM" Descripcion="Turkmenistán"/>
+  <row c_Pais="TUR" Descripcion="Turquía"/>
+  <row c_Pais="TUV" Descripcion="Tuvalu"/>
+  <row c_Pais="UKR" Descripcion="Ucrania"/>
+  <row c_Pais="UGA" Descripcion="Uganda"/>
+  <row c_Pais="URY" Descripcion="Uruguay"/>
+  <row c_Pais="UZB" Descripcion="Uzbekistán"/>
+  <row c_Pais="VUT" Descripcion="Vanuatu"/>
+  <row c_Pais="VAT" Descripcion="Santa Sede[Estado de la Ciudad del Vaticano] (la)"/>
+  <row c_Pais="VEN" Descripcion="Venezuela, República Bolivariana de"/>
+  <row c_Pais="VNM" Descripcion="Viet Nam"/>
+  <row c_Pais="WLF" Descripcion="Wallis y Futuna"/>
+  <row c_Pais="YEM" Descripcion="Yemen"/>
+  <row c_Pais="DJI" Descripcion="Yibuti"/>
+  <row c_Pais="ZMB" Descripcion="Zambia"/>
+  <row c_Pais="ZWE" Descripcion="Zimbabue"/>
+  <row c_Pais="ZZZ" Descripcion="Países no declarados"/>
+</Catalogo>
